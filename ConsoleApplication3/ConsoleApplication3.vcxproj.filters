@@ -13,36 +13,69 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Y220216">
+      <UniqueIdentifier>{591dd180-af60-4ffa-bc33-d684e56cb0f7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main10.cpp">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
     <ClCompile Include="main01.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>Y220216</Filter>
     </ClCompile>
     <ClCompile Include="main02.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>Y220216</Filter>
     </ClCompile>
     <ClCompile Include="main03.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>Y220216</Filter>
     </ClCompile>
     <ClCompile Include="main04.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>Y220216</Filter>
     </ClCompile>
     <ClCompile Include="main05.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>Y220216</Filter>
     </ClCompile>
     <ClCompile Include="main06.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>Y220216</Filter>
     </ClCompile>
     <ClCompile Include="main07.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>Y220216</Filter>
     </ClCompile>
     <ClCompile Include="main08.cpp">
-      <Filter>ソース ファイル</Filter>
+      <Filter>Y220216</Filter>
     </ClCompile>
     <ClCompile Include="main09.cpp">
+      <Filter>Y220216</Filter>
+    </ClCompile>
+    <ClCompile Include="main10.cpp">
+      <Filter>Y220216</Filter>
+    </ClCompile>
+    <ClCompile Include="main20.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main21.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main22.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main23.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main24.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main25.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="sub25.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main26.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main27.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main28.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
